@@ -1,0 +1,18 @@
+Letter Reveal - Reveal a letter from a word if user inputs that letter
+Input: Any letter
+Example:
+>_ _ _ _ _
+>L (Input)
+>_ _ L L _
+>H (Input)
+>H _ L L _
+>E (Input)
+>H E L L _
+>O (Input)
+>H E L L O
+Challenge: - Give the user lives, so if they guess incorrectly they lose a life.
+Challenge example::
+>_ _ _ _ _
+>V (Input)
+>"V" is not in the word! 6 lives left!
+>_ _ _ _ _
