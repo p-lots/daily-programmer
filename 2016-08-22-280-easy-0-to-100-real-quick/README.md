@@ -6,11 +6,10 @@ Oh, how cursed we are to have but 10 digits upon our fingers. Imagine the possib
 You will be given inputs which correspond to the 10 digits of a pair of hands in the following format, where 1 means the finger is raised, and 0 means the finger is down.
 
 Example:
-```
+
 LP | LR | LM | LI | LT |  RT | RI | RM | RR | RP
 ---------|-----------|-----------|----------|-----------|-----------|----------|------------|-----------|----------
 0 | 1 | 1 | 1 | 0 | 1 | 1| 1| 0| 0
-```
     
     L = Left, R = Right, P = Pinky, R = Ring Finger, M = Middle Finger, I = Index Finger, T = Thumb
 
