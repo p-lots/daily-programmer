@@ -6,10 +6,11 @@ Oh, how cursed we are to have but 10 digits upon our fingers. Imagine the possib
 You will be given inputs which correspond to the 10 digits of a pair of hands in the following format, where 1 means the finger is raised, and 0 means the finger is down.
 
 Example:
-
-    **LP** | **LR** | **LM** | **LI** | **LT** |  **RT** | **RI** | **RM** | **RR** | **RP**
-    ---------|-----------|-----------|----------|-----------|-----------|----------|------------|-----------|----------
-    0 | 1 | 1 | 1 | 0 | 1 | 1| 1| 0| 0
+```
+LP | LR | LM | LI | LT |  RT | RI | RM | RR | RP
+---------|-----------|-----------|----------|-----------|-----------|----------|------------|-----------|----------
+0 | 1 | 1 | 1 | 0 | 1 | 1| 1| 0| 0
+```
     
     L = Left, R = Right, P = Pinky, R = Ring Finger, M = Middle Finger, I = Index Finger, T = Thumb
 
@@ -29,6 +30,4 @@ Your challenge is to take these inputs, and:
     0000110000 -> 55
     1111110001 -> Invalid
 
-# Credit
-
-This challenge was submitted by /u/abyssalheaven. Thank you! If you have any challenge ideas, please share them in /r/dailyprogrammer_ideas and there's a good chance we'll use them. 
+https://www.reddit.com/r/dailyprogrammer/comments/4z04vj/20160822_challenge_280_easy_0_to_100_real_quick/
