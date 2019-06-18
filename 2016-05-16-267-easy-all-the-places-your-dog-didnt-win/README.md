@@ -21,3 +21,5 @@ Bonus 1) Allow scaling greater than 100 placings
 Bonus 2) Exclude 0th place
 
 Bonus 3) Accurately represent the unique cases 11, 12, and 13
+
+https://www.reddit.com/r/dailyprogrammer/comments/4jom3a/20160516_challenge_267_easy_all_the_places_your/

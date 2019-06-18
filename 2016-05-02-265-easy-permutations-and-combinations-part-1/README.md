@@ -70,3 +70,5 @@ The "3rd combination number of 3 out of 6 is `0 1 4`".  "0 2 4 is combination in
 ```
 
 Brute force solutions (generate full list, then take the number/index) to all of today's challenges are encouraged.
+
+https://www.reddit.com/r/dailyprogrammer/comments/4hhiu8/20160502_challenge_265_easy_permutations_and/

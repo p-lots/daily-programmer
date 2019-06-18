@@ -2,26 +2,26 @@ You are trapped at uninhabited island only with your laptop. Still you don't wan
 
 Uuencoding is a form of binary-to-text encoding, which uses only symbols from 32-95 diapason, which means all symbols used in the encoding are printable.
 
-#Description of encoding
+# Description of encoding
 
 A uuencoded file starts with a header line of the form:
 
     begin <mode> <file><newline>
 
-<mode> is the file's Unix file permissions as three octal digits (e.g. 644, 744). For Windows 644 is always used.
+\<mode\> is the file's Unix file permissions as three octal digits (e.g. 644, 744). For Windows 644 is always used.
 
-<file> is the file name to be used when recreating the binary data.
+\<file\> is the file name to be used when recreating the binary data.
 
-<newline> signifies a newline character, used to terminate each line.
+\<newline\> signifies a newline character, used to terminate each line.
 
 Each data line uses the format:
 
     <length character><formatted characters><newline>
 
-<length character> is a character indicating the number of data bytes which have been encoded on that line. This is an ASCII character determined by adding 32 to the actual byte count, with the sole exception of a grave accent "`" (ASCII code 96) signifying zero bytes. All data lines except the last (if the data was not divisible by 45), have 45 bytes of encoded data (60 characters after encoding). Therefore, the vast majority of length values is 'M', (32 + 45 = ASCII code 77 or "M").
+\<length character\> is a character indicating the number of data bytes which have been encoded on that line. This is an ASCII character determined by adding 32 to the actual byte count, with the sole exception of a grave accent "`" (ASCII code 96) signifying zero bytes. All data lines except the last (if the data was not divisible by 45), have 45 bytes of encoded data (60 characters after encoding). Therefore, the vast majority of length values is 'M', (32 + 45 = ASCII code 77 or "M").
 
 
-<formatted characters> are encoded characters.
+\<formatted characters\> are encoded characters.
 
 The mechanism of uuencoding repeats the following for every 3 bytes (if there are less than 3 bytes left, trailing 0 are added):
 
@@ -40,13 +40,13 @@ The file ends with two lines:
 
     `<newline>
     end<newline>
-#Formal Inputs & Outputs
-##Input
+# Formal Inputs & Outputs
+## Input
 a byte array or string.
-##Output
+## Output
 a string containing uuencoded input.
 
-#Examples
+# Examples
 Input: Cat
 
 Output:
@@ -74,20 +74,14 @@ Output:
     `
     end
 
-#Bonuses
-##Bonus 1
+# Bonuses
+## Bonus 1
 Write uudecoder, which decodes uuencoded input back to a byte array or string
-##Bonus 2
+## Bonus 2
 Write encoder for files as well.
-##Bonus 3
+## Bonus 3
 Make encoding parallel.
-#Further Reading
+# Further Reading
 [Binary-to-text encoding](https://en.wikipedia.org/wiki/Binary-to-text_encoding) on Wikipedia.
 
-#Finally
-
-This challenge is posted by /u/EvgeniyZh
-
-Also have a good challenge idea?
-
-Consider submitting it to /r/dailyprogrammer_ideas
+https://www.reddit.com/r/dailyprogrammer/comments/4xy6i1/20160816_challenge_279_easy_uuencoding/

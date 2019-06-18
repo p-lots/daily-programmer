@@ -62,3 +62,5 @@ If the two units given are incompatible, give an error message as output.
   for a wikipedia page with temperature conversion formulas.
 * [See here](http://www.teacherschoice.com.au/maths_library/angles/angles.htm)
   for a random web link about converting between degrees and radians.
+
+https://www.reddit.com/r/dailyprogrammer/comments/4q35ip/20160627_challenge_273_easy_getting_a_degree/

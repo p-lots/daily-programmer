@@ -71,3 +71,5 @@ example list:
 
 output with missing combination number (x):  
 `15 85 7 x`
+
+https://www.reddit.com/r/dailyprogrammer/comments/4htg9t/20160504_challenge_265_easy_permutations_and/
