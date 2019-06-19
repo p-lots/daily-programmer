@@ -1,4 +1,4 @@
-[Easy/Intermediate] Unusual Bases
+# [Easy/Intermediate] Unusual Bases
 
 # Description
 
@@ -76,25 +76,15 @@ Because each term of the sequence is the sum of the previous two, the 'Base Fib'
 For the bonus challenge, give the output with the least `1`'s.
 
 
-##Bonus input
+## Bonus input
 
     10 8
     10 16
     10 32
     10 9024720
 
-#Bonus 2
+# Bonus 2
 
 As /u/thorwing suggested, it would be a greater challenge to write the base fib with the most `1`'s instead of the least
 
-# Finally
-
-Have a good challenge idea like /u/SovietKetchup?
-
-Consider submitting it to /r/dailyprogrammer_ideas
-
-
-# Edit
-As some of you have pointed out, my solution had a small bug in it. 
-
-    9024720 -> 1010100101010100000010001000010010
+https://www.reddit.com/r/dailyprogrammer/comments/5196fi/20160905_challenge_282_easy_unusual_bases/

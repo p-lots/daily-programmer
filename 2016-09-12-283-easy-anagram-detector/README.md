@@ -41,3 +41,5 @@ You should replace the question mark with some marker about the validity of the 
     "Astronomers" is NOT an anagram of "Moon starer"
     "Vacation Times" is an anagram of "I'm Not as Active"
     "Dormitory" is NOT an anagram of "Dirty Rooms"
+    
+https://www.reddit.com/r/dailyprogrammer/comments/52enht/20160912_challenge_283_easy_anagram_detector/
