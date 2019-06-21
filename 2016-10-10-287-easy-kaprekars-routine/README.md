@@ -38,4 +38,4 @@ Numbers like 3333 would immediately go to 0 under this routine, but since we req
 
 What is the largest number of iterations for Kaprekar's Routine to reach 6174? That is, what's the largest possible output for your `kaprekar` function, given a valid input? Post the answer along with your solution.
 
-*Thanks to u/BinaryLinux and u/Racoonie for posting the idea behind this challenge in r/daliyprogrammer_ideas!*
+https://www.reddit.com/r/dailyprogrammer/comments/56tbds/20161010_challenge_287_easy_kaprekars_routine/

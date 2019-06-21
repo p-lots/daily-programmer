@@ -39,3 +39,5 @@ Your program should report what each number is as a factorial, or "NONE" if it's
     479001600 = 12!
     6 = 3!
     18  NONE
+
+https://www.reddit.com/r/dailyprogrammer/comments/55nior/20161003_challenge_286_easy_reverse_factorial/
