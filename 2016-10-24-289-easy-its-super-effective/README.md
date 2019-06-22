@@ -160,15 +160,8 @@ Deep further into the api and give the multiplier for folowing
     surf -> dwegong
 
 
-##side note 
+## Side note 
 
 the api replaces a space with a hypen (`-`)
 
-
-#Finaly
-
-Special thanks to /u/Daanvdk for posting the idea on /r/dailyprogrammer_ideas.
-
-If you also have a good idea, don't be afraid to put it over their.
-
-**EDIT**: Fixed link
+https://www.reddit.com/r/dailyprogrammer/comments/5961a5/20161024_challenge_289_easy_its_super_effective/

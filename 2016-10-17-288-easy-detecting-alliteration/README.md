@@ -79,4 +79,4 @@ Your program should emit the words from each sentence that form the group of all
     paved paradise
     dessert disaster
 
-**EDITED** to add the word "and" to the stop word list. My bad, a mistake to omit.
+https://www.reddit.com/r/dailyprogrammer/comments/57zcbm/20161017_challenge_288_easy_detecting_alliteration/
