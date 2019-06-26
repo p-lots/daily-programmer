@@ -15,9 +15,9 @@ If you have anything wrong in the wrong order, the bomb will explode.
 
 
 There can be multiple wires with the same colour and these instructions are for one wire at a time. Once you cut a wire you can forget about the previous ones. 
-#Formal Inputs & Outputs
+# Formal Inputs & Outputs
 
-##Input description
+## Input description
 
 You will recieve a sequence of wires that where cut in that order and you have to determine if the person was succesfull in disarming the bomb or that it blew up.
 
@@ -36,7 +36,7 @@ You will recieve a sequence of wires that where cut in that order and you have t
     green
     white
 
-##Output description
+## Output description
 
 Wheter or not the bomb exploded
 
@@ -48,12 +48,8 @@ Wheter or not the bomb exploded
 
     "Boom"
 
-#Notes/Hints
+# Notes/Hints
 
 A state machine will help this make easy
 
-#Finally
-
-Have a good challenge idea?
-
-Consider submitting it to /r/dailyprogrammer_ideas
+https://www.reddit.com/r/dailyprogrammer/comments/5e4mde/20161121_challenge_293_easy_defusing_the_bomb/
