@@ -31,3 +31,5 @@ You should emit the smallest and largest integer you can make, per line. Example
 # Bonus
 
 **EDIT** My solution uses permutations, which is inefficient. Try and come up with a more efficient approach.
+
+https://www.reddit.com/r/dailyprogrammer/comments/69y21t/20170508_challenge_314_easy_concatenated_integers/

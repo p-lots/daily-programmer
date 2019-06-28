@@ -340,6 +340,4 @@ Implement the same tag system as a cyclic tag system using the [schema described
     1100
     100
 
-# Credit
-
-This challenge was proposed by /u/thebutterflydefect, many thanks. If you have a challenge idea, please share it in /r/dailyprogrammer_ideas  and there's a good chance we'll use it.
+https://www.reddit.com/r/dailyprogrammer/comments/6e08v6/20170529_challenge_317_easy_collatz_tag_system/
