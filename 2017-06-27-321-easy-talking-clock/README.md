@@ -37,3 +37,5 @@ The time in words, using 12-hour format followed by am or pm.
 **Extension challenges (optional)**
 
 Use the audio clips [found here](http://steve-audio.net/voices/) to give your clock a voice.
+
+https://www.reddit.com/r/dailyprogrammer/comments/6jr76h/20170627_challenge_321_easy_talking_clock/
