@@ -37,7 +37,5 @@ Write the program to work for numbers with big gaps to the nearest primes. This 
 
     2010741
     1425172824437700148
-                
-# Credit
 
-This challenge was suggested by user /u/tulanir, many thanks! If you have an idea for a challenge please share it on /r/dailyprogrammer_ideas and there's a good chance we'll use it. 
+https://www.reddit.com/r/dailyprogrammer/comments/6s70oh/2017087_challenge_326_easy_nearest_prime_numbers/

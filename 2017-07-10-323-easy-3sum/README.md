@@ -39,3 +39,5 @@ Your program should emit triplets of numbers that sum to 0. Example:
 	
 	-5 -4 9
 	-1 -1 2
+
+https://www.reddit.com/r/dailyprogrammer/comments/6melen/20170710_challenge_323_easy_3sum/
