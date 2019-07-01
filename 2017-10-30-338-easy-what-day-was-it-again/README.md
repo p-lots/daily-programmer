@@ -1,4 +1,4 @@
-#Description
+# Description
 
 What day of the week did hitler get elected on? 
 
@@ -22,7 +22,7 @@ Ignore leap-year if the year is divisible by 100
 
 Ignore previous rule if the year is divisible by 400
 
-#Input example
+# Input example
 
 The input will be 3 integers as such:
 
@@ -46,13 +46,13 @@ Input will look like:
 
     2017 10 30
 
-#Output example
+# Output example
 
 Output is simply the day of the week of the given date, for above it would be:
 
     Monday
 
-#Challenge input
+# Challenge input
 
     2017 10 30
     2016 2 29
@@ -67,8 +67,4 @@ Output is simply the day of the week of the given date, for above it would be:
     2202 12 15
     7032 3 26
     
-#Extra
-
-If you have any challenges, please share it at /r/dailyprogrammer_ideas!
-
-And remember to upvote challenges you like :)
+https://www.reddit.com/r/dailyprogrammer/comments/79npf9/20171030_challenge_338_easy_what_day_was_it_again/
