@@ -32,3 +32,5 @@ fit2(5, 5, 6, 1) => 0
 *Hint: is there an easy way to define `fit2` in terms of `fit1`?*
 
 Note that this is not the maximum possible number of boxes you could get if you rotated them independently. For instance, if you're fitting 3-by-2 boxes into a 5-by-5 crate, it's possible to fit 4 by varying the orientations, but `fit2(5, 5, 3, 2)` is 2, not 4. Handling the general case is much more complicated, and beyond the scope of today's challenge.
+
+https://www.reddit.com/r/dailyprogrammer/comments/bazy5j/20190408_challenge_377_easy_axisaligned_crate/

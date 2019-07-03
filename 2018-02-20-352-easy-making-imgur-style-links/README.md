@@ -36,6 +36,4 @@ Your program should emit the number represented in Base62 notation. Examples:
     B4b9
     sS4    
 
-# Note 
-
-Oops, I have the resulting strings _backwards_ as noted [in this thread](https://www.reddit.com/r/dailyprogrammer/comments/7yyt8e/20180220_challenge_352_easy_making_imgurstyle/dukagoy/?utm_content=permalink&utm_medium=front&utm_source=reddit&utm_name=dailyprogrammer). Solve it either way, but if you wish make a note as many are doing. Sorry about that.
+https://www.reddit.com/r/dailyprogrammer/comments/7yyt8e/20180220_challenge_352_easy_making_imgurstyle/
