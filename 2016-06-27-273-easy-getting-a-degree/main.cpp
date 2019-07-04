@@ -26,30 +26,30 @@ int main(int argc, char *argv[])
 			continue;
 		}
 		double result;
-		if (from == 0 && to == 1) {
+		if (from == 0 && to == 1) { // raidans to degrees
 			result = units * (static_cast<double>(180) / PI);
 		}
-		else if (from == 1 && to == 0) {
+		else if (from == 1 && to == 0) { // degrees to radians
 			result = units * (PI / static_cast<double>(180));
 		}
-		else if (from == 2 && to == 3) {
+		else if (from == 2 && to == 3) { // celsius to fahrenheit
 			result = units * (static_cast<double>(9) / static_cast<double>(5)) + 32;
 		}
-		else if (from == 3 && to == 2) {
+		else if (from == 3 && to == 2) { // fahrenheit to celsius
 			result = (units - static_cast<double>(32))
 				* (static_cast<double>(5) / static_cast<double>(9));
 		}
-		else if (from == 2 && to == 4) {
+		else if (from == 2 && to == 4) { // celsius to kelvin
 			result = units + 273.15;
 		}
-		else if (from == 3 && to == 4) {
+		else if (from == 3 && to == 4) { // fahrenheit to kelvin
 			result = (units + 459.67)
 				* (static_cast<double>(5) / static_cast<double>(9));
 		}
-		else if (from == 4 && to == 2) {
+		else if (from == 4 && to == 2) { // kelvin to celsius
 			result = units - 273.15;
 		}
-		else if (from == 4 && to == 3) {
+		else if (from == 4 && to == 3) { // kelvin to fahrenheit
 			result = units * (static_cast<double>(9) / static_cast<double>(5))
 				- 459.67;
 		}
