@@ -28,4 +28,4 @@ Your program should emit the Kaprekar numbers in that range. From our example:
 	9 45 55 99
 	297 703 999 2223 2728 4879 5050 5292 7272 7777
 
-https://www.reddit.com/r/dailyprogrammer/comments/56tbds/20161010_challenge_287_easy_kaprekars_routine/
+https://www.reddit.com/r/dailyprogrammer/comments/5aemnn/20161031_challenge_290_easy_kaprekar_numbers/
