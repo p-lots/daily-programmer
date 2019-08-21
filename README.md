@@ -1,3 +1,3 @@
 # daily-programmer
 
-Various [dailyprogrammer](http://reddit.com/r/dailyprogrammer/) solutions
+Various [dailyprogrammer](http://reddit.com/r/dailyprogrammer/) solutions.
